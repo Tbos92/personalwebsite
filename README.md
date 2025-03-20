@@ -20,9 +20,13 @@ This is my personal website designed to showcase my portfolio, share blog posts,
 
 <h2>Frontend</h2>
 
-**Framework**: React (or Next.js for server-side rendering support)
+**React** – JavaScript library for building user interfaces
 
-**Styling**: Bootstrap
+**Vite** – Fast front-end build tool and development server
+
+**React Router** – Declarative routing for React applications
+
+**CSS Framework**: Bootstrap
 
 <h2>Backend</h2>
 
