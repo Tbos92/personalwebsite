@@ -28,6 +28,9 @@ This is my personal website designed to showcase my portfolio, share blog posts,
 
 **CSS Framework**: Bootstrap
 
+**Testing:** Jest + React Testing Library for unit and component testing
+
+
 
 <h2>State Management</h2>
 
