@@ -6,15 +6,15 @@ This is my personal website designed to showcase my portfolio, share blog posts,
 
 <h1>Features</h1>
 
-**Home Page**: A welcoming introduction with featured projects and blog posts.
+**Home Page** – A welcoming introduction with featured projects and blog posts.
 
-**About Me**: Details about my background, skills, and experience.
+**About Me** – Details about my background, skills, and experience.
 
-**Portfolio**: A showcase of projects with descriptions and links to GitHub repositories and live demos.
+**Portfolio** – A showcase of projects with descriptions and links to GitHub repositories and live demos.
 
-**Blog**: A space for sharing technical insights, tutorials, and personal reflections.
+**Blog** – A space for sharing technical insights, tutorials, and personal reflections.
 
-**Contact Form**: A simple form to allow visitors to reach out to me.
+**Contact Form** – A simple form to allow visitors to reach out to me.
 
 <h1>Tech Stack</h1>
 
@@ -26,9 +26,9 @@ This is my personal website designed to showcase my portfolio, share blog posts,
 
 **React Router** – Declarative routing for React applications
 
-**CSS Framework**: Bootstrap
+**CSS Framework** – Bootstrap
 
-**Testing:** Jest + React Testing Library for unit and component testing
+**Testing:** – Jest + React Testing Library for unit and component testing
 
 
 
@@ -40,13 +40,13 @@ This is my personal website designed to showcase my portfolio, share blog posts,
 
 <h2>Backend</h2>
 
-**Server**: Node.js with Express
+**Server** – Node.js with Express
 
-**Database**: PostgreSQL or MongoDB
+**Database** – PostgreSQL or MongoDB
 
-**Authentication**: JWT or session-based authentication (optional for admin blog management)
+**Authentication** – JWT or session-based authentication (optional for admin blog management)
 
-**Deployment**: Vercel, Netlify (frontend), and DigitalOcean or Heroku (backend)
+**Deployment** – Vercel, Netlify (frontend), and DigitalOcean or Heroku (backend)
 
 
 <h1>License</h1>
