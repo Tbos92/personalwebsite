@@ -28,6 +28,13 @@ This is my personal website designed to showcase my portfolio, share blog posts,
 
 **CSS Framework**: Bootstrap
 
+
+<h2>State Management</h2>
+
+**Redux Toolkit/React-Redux** – Global state management.
+
+
+
 <h2>Backend</h2>
 
 **Server**: Node.js with Express
