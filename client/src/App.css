@@ -1,1 +1,20 @@
+body {
+  font-family: "Fira Code", monospace;
+}
 
+.nav-link-custom {
+  font-size: 1.5rem;
+}
+
+.nav-icon-custom {
+  font-size: 2rem;
+  color: #e1dfff;
+}
+
+.custom-wordmark {
+  font-family: "Fira Code", monospace !important;
+  font-weight: bold;
+  font-size: 2rem;
+  color: #e1dfff;
+  letter-spacing: 1px;
+}
