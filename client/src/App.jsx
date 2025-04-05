@@ -11,6 +11,7 @@ import Blog from "./components/Blog.jsx";
 import BlogDetailView from "./components/BlogDetailView.jsx";
 import Contact from "./components/Contact.jsx";
 import ContactForm from "./components/ContactForm.jsx";
+import PortfolioHighlights from "./components/PortfolioHighlights.jsx";
 
 function App() {
   return (
@@ -28,6 +29,7 @@ function App() {
           <Route path="/blog" element={<Blog />} />
           <Route path="/blog_detail_view" element={<BlogDetailView />} />
           <Route path="/contact" element={<Contact />} />
+          <Route path="/highlights" element={<PortfolioHighlights />} />
         </Routes>
       </div>
     </BrowserRouter>
