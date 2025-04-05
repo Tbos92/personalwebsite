@@ -1,5 +1,12 @@
+import PortfolioHightlights from "./PortfolioHighlights.jsx";
+
 const Home = () => {
-  return <h1>Hello World!</h1>;
+  return (
+    <div>
+      <h1>Hello World!</h1>
+      <PortfolioHightlights />
+    </div>
+  );
 };
 
 export default Home;
