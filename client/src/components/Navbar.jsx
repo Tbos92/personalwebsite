@@ -44,7 +44,7 @@ const customNavbar = () => {
                 className="bi bi-file-person me-1 nav-icon-custom"
                 aria-hidden="true"
               ></i>{" "}
-              About Me!
+              About
             </Nav.Link>
             <Nav.Link href="/contact" className="nav-link-custom">
               <i

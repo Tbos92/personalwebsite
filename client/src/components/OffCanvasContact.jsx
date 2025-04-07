@@ -16,9 +16,7 @@ function OffCanvasContact() {
       </Button>
 
       <Offcanvas show={show} onHide={handleClose} placement="bottom">
-        <Offcanvas.Header closeButton>
-          <Offcanvas.Title>Contact Form!</Offcanvas.Title>
-        </Offcanvas.Header>
+        <Offcanvas.Header closeButton></Offcanvas.Header>
         <Offcanvas.Body>
           <ContactForm />
         </Offcanvas.Body>
