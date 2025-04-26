@@ -1,4 +1,4 @@
-import PortfolioHightlights from "./PortfolioHighlights.jsx";
+import PortfolioHighlights from "./PortfolioHighlights.jsx";
 import Resume from "./Resume.jsx";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
@@ -18,7 +18,7 @@ const Home = () => {
           <Resume />
         </Col>
         <Col xs={11} lg={6}>
-          <PortfolioHightlights />
+          <PortfolioHighlights />
         </Col>
       </Row>
     </Container>
